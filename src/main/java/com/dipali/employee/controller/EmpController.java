@@ -16,6 +16,7 @@ import com.dipali.employee.service.EmpService;
 
 
 @Controller
+@componentscan
 public class EmpController {
 
 	@Autowired
